@@ -1,0 +1,14 @@
+# Nix build output links (default and named outputs)
+/result
+/result-*
+
+# direnv / nix-direnv local environment cache
+.direnv/
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~
+
+# macOS metadata
+.DS_Store
