@@ -40,7 +40,7 @@
 
 stdenv.mkDerivation {
   pname = "chatgpt-desktop";
-  version = "26.915.31945";
+  version = "26.930.41038";
 
   src = ./chatgpt_amd64.deb;
 
